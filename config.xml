@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<application>
+	<namespace>custom-web-receipt</namespace>
+	<name>Custom Web Receipt</name>
+	<description></description>
+	<version>1.0.0</version>
+	<main>Module.php</main>
+	<language>language/</language>
+	<includes>Inc</includes>
+</application>
